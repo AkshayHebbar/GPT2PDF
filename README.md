@@ -1,3 +1,4 @@
+[Not being maintained as of 06/01/2024]
 # GPT2PDF
 
 GPT2PDF is a chrome extension that allows users to download ChatGPT conversations and save them as PDF to local storage.
